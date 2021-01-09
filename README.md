@@ -1,2 +1,3 @@
-# Uas_Sistem_Penunjang_Keputusan_Erik_Parulian_Simamora
-UAS_Sistem-Penunjang Keputusan-ERIK PARULIAN SIMAMORA
+# UAS_PENUNJANG_KEPUTUSAN
+NAMA Erik Parulian Simamora
+NIM 171011401578
